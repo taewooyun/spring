@@ -1,6 +1,7 @@
 package io.taewooyunn.tutorial.repository;
 
 import io.taewooyunn.tutorial.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
